@@ -1,10 +1,10 @@
 import Header from "../components/header";
 
-export default function HomePage() {
+export default function About() {
   return (
     <>
       <Header />
-      <div>Welcome to Next.js!</div>
+      <div>About page</div>
     </>
   );
 }
